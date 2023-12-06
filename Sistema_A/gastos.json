@@ -1,0 +1,8 @@
+{ "gastos":{
+    "idgastos": 101,
+    "idservicios": 201,
+    "idreserva": 1001,
+    "fecha": "2023-04-10",
+    "cantidad": 2,
+    "precio": 25.50
+}}

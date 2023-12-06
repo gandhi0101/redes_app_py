@@ -1,0 +1,64 @@
+{"temporada":{
+    "temporada": 1,
+    "fechainicio": "2023-01-01",
+    "fechafinal": "2023-12-31",
+    "tipo": "Verano"
+}}
+
+{"tipo_habitacion":{
+    "categoria": 2,
+    "camas": 1,
+    "exterior": "Sí",
+    "salon": "No",
+    "terraza": "Sí"
+}}
+{"precio_habitacion":{
+    "idprecio": 101,
+    "categoria": 2,
+    "temporada": 1,
+    "precio": 150.75
+}}
+{"habitaciones":{
+    "numhabitacion": 201,
+    "categoria": 2
+}}
+{"clientes":{
+    "identificacion": "A123456789",
+    "pais": "España",
+    "nombre": "Juan",
+    "apellido1": "García",
+    "apellido2": "López",
+    "direccion": "Calle Principal 123",
+    "telefono": "123456789",
+    "observaciones": "Cliente habitual"
+}}
+{"paises":{
+    "pais": "España"
+}}
+{"reserva_habitac":{
+    "idreserva": 1001,
+    "identificacion": "A123456789",
+    "numhabitacion": 201,
+    "fechaentrada": "2023-03-15",
+    "fechasalida": "2023-03-20",
+    "iva": 0.21
+}}
+{ "gastos":{
+    "idgastos": 101,
+    "idservicios": 201,
+    "idreserva": 1001,
+    "fecha": "2023-04-10",
+    "cantidad": 2,
+    "precio": 25.50
+}}
+{"servicios":{
+    "idservicios": 102,
+    "nombreservicio": "Desayuno",
+    "descripcion": "Bufé continental",
+    "precio": 15.50,
+    "iva": 0.18,
+    "fecha": "2023-05-06"
+}}
+{"tipo_servicio":{
+    "nombreservicio": "Limpieza"
+}}
