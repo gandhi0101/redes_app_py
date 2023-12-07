@@ -2,7 +2,7 @@ import serial, time, json, requests
 
 # Esta función enviará el JSON al servidor web local
 def enviar_json_al_servidor(json_data):
-    url = "http://localhost:5000/actualizar_cliente"  # Reemplaza con la URL de tu servidor
+    url = "http://localhost:5000/Sistema_B/actualizar_cliente"  # Reemplaza con la URL de tu servidor
     headers = {'Content-Type': 'application/json'}
 
     try:
@@ -116,7 +116,7 @@ while True:
             cambiar_nombre(llave_rfid)
         else:
             asignar_nombre(llave_rfid)
-            SA
+            
 
          # Esperar a que se acerque otra llave antes de continuar
         print("Esperando a que se acerque otra llave...")

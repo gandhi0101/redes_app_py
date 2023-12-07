@@ -3,22 +3,22 @@
         {
             "identificacion": "A123456789",
             "pais": "Espa\u00c3\u00b1a",
-            "nombre": "Juan",
-            "apellido1": "Garc\u00c3\u00ada",
-            "apellido2": "L\u00c3\u00b3pez",
-            "direccion": "Calle Principal 123",
+            "nombre": "juan",
+            "apellido1": "Martinez",
+            "apellido2": "Marquez",
+            "direccion": "av aguascalientes",
             "telefono": "123456789",
             "observaciones": "Cliente habitual"
         },
         {
             "identificacion": "2032412034312034",
             "pais": "M\u00e9xico",
-            "nombre": "\u0016",
-            "apellido1": "sa",
-            "apellido2": "a",
-            "direccion": "s",
-            "telefono": "as",
-            "observaciones": "as"
+            "nombre": "Arturo",
+            "apellido1": "Cabral",
+            "apellido2": "villarrea",
+            "direccion": "av aguascalientes",
+            "telefono": "123",
+            "observaciones": "habitual"
         },
         {
             "identificacion": "2046372043302046",

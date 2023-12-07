@@ -2,6 +2,48 @@
     "tipo_servicio": [
         {
             "nombreservicio": "Limpieza"
+        },
+        {
+            "nombreservicio": "Servicio de mayordomo"
+        },
+        {
+            "nombreservicio": "Check-in/check-out privado"
+        },
+        {
+            "nombreservicio": "Acceso a zonas exclusivas"
+        },
+        {
+            "nombreservicio": "Spa y servicios de bienestar"
+        },
+        {
+            "nombreservicio": "Restaurante gourmet"
+        },
+        {
+            "nombreservicio": "Servicio de limusina"
+        },
+        {
+            "nombreservicio": "Conserje personalizado"
+        },
+        {
+            "nombreservicio": "Acceso a eventos exclusivos"
+        },
+        {
+            "nombreservicio": "Regalos de bienvenida"
+        },
+        {
+            "nombreservicio": "Servicio de preparación de habitación"
+        },
+        {
+            "nombreservicio": "Tecnología avanzada en habitaciones"
+        },
+        {
+            "nombreservicio": "Servicio de prensa personalizado"
+        },
+        {
+            "nombreservicio": "Programas de fidelidad exclusivos"
+        },
+        {
+            "nombreservicio": "Desayuno"
         }
     ]
 }

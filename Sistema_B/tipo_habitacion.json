@@ -1,0 +1,33 @@
+{
+    "tipo_habitacion": [
+        {
+            "categoria": 2,
+            "camas": 1,
+            "exterior": "Sí",
+            "salon": "No",
+            "terraza": "No"
+        },
+        {
+            "categoria": 1,
+            "camas": 2,
+            "exterior": "SI",
+            "salon": "No",
+            "terraza": "SI"
+        },
+        {
+            "categoria": 0,
+            "camas": 1,
+            "exterior": "Sí",
+            "salon": "Si",
+            "terraza": "Sí"
+        },
+        {
+            "categoria": 3,
+            "camas": 1,
+            "exterior": "No",
+            "salon": "No",
+            "terraza": "No"
+        }
+
+    ]
+}

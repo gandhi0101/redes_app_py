@@ -3,6 +3,18 @@
         {
             "numhabitacion": 201,
             "categoria": 2
+        },
+        {
+            "numhabitacion": 202,
+            "categoria": 1
+        },
+        {
+            "numhabitacion": 203,
+            "categoria": 0  
+        },
+        {
+            "numhabitacion": 204,
+            "categoria": 3
         }
     ]
 }

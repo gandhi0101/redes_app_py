@@ -1,12 +1,52 @@
 {
     "servicios": [
         {
-            "idservicios": 102,
+            "idservicio": 102,
             "nombreservicio": "Desayuno",
             "descripcion": "Bufé continental",
             "precio": 15.50,
-            "iva": 0.18,
+            "iva": 0.16,
             "fecha": "2023-05-06"
-        
-    }]
+        },
+        {
+            "idservicio": 103,
+            "nombreservicio": "Acceso al gimnasio",
+            "descripcion": "Uso ilimitado del gimnasio",
+            "precio": 10.00,
+            "iva": 0.16,
+            "fecha": "2023-05-07"
+        },
+        {
+            "idservicio": 104,
+            "nombreservicio": "Cata de vinos",
+            "descripcion": "Experiencia exclusiva de degustación",
+            "precio": 25.75,
+            "iva": 0.16,
+            "fecha": "2023-05-08"
+        },
+        {
+            "idservicio": 105,
+            "nombreservicio": "Masaje relajante",
+            "descripcion": "Tratamiento de 60 minutos en el spa",
+            "precio": 40.20,
+            "iva": 0.16,
+            "fecha": "2023-05-09"
+        },
+        {
+            "idservicio": 106,
+            "nombreservicio": "Cena gourmet",
+            "descripcion": "Menú exclusivo de tres platos",
+            "precio": 50.80,
+            "iva": 0.16,
+            "fecha": "2023-05-10"
+        },
+        {
+            "idservicio": 107,
+            "nombreservicio": "Servicio de traslado",
+            "descripcion": "Transporte privado al aeropuerto",
+            "precio": 30.00,
+            "iva": 0.16,
+            "fecha": "2023-05-11"
+        }
+    ]
 }
