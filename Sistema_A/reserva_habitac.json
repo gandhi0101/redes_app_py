@@ -1,8 +1,12 @@
-{"reserva_habitac":{
-    "idreserva": 1001,
-    "identificacion": "A123456789",
-    "numhabitacion": 201,
-    "fechaentrada": "2023-03-15",
-    "fechasalida": "2023-03-20",
-    "iva": 0.21
-}}
+{
+    "reserva_habitac": [
+        {
+            "idreserva": 1001,
+            "identificacion": "A123456789",
+            "numhabitacion": 201,
+            "fechaentrada": "2023-03-15",
+            "fechasalida": "2023-03-20",
+            "iva": 0.21
+        }
+    ]
+}

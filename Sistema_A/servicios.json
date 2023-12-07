@@ -1,8 +1,12 @@
-{"servicios":{
-    "idservicios": 102,
-    "nombreservicio": "Desayuno",
-    "descripcion": "Bufé continental",
-    "precio": 15.50,
-    "iva": 0.18,
-    "fecha": "2023-05-06"
-}}
+{
+    "servicios": [
+        {
+            "idservicios": 102,
+            "nombreservicio": "Desayuno",
+            "descripcion": "Bufé continental",
+            "precio": 15.50,
+            "iva": 0.18,
+            "fecha": "2023-05-06"
+        
+    }]
+}

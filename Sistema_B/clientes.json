@@ -1,10 +1,34 @@
-{"clientes":{
-    "identificacion": "A123456789",
-    "pais": "España",
-    "nombre": "Juan",
-    "apellido1": "García",
-    "apellido2": "López",
-    "direccion": "Calle Principal 123",
-    "telefono": "123456789",
-    "observaciones": "Cliente habitual"
-}}
+{
+    "clientes": [
+        {
+            "identificacion": "A123456789",
+            "pais": "Espa\u00c3\u00b1a",
+            "nombre": "Juan",
+            "apellido1": "Garc\u00c3\u00ada",
+            "apellido2": "L\u00c3\u00b3pez",
+            "direccion": "Calle Principal 123",
+            "telefono": "123456789",
+            "observaciones": "Cliente habitual"
+        },
+        {
+            "identificacion": "2032412034312034",
+            "pais": "M\u00e9xico",
+            "nombre": "\u0016",
+            "apellido1": "sa",
+            "apellido2": "a",
+            "direccion": "s",
+            "telefono": "as",
+            "observaciones": "as"
+        },
+        {
+            "identificacion": "2046372043302046",
+            "pais": "M\u00e9xico",
+            "nombre": "Salvador",
+            "apellido1": "Gaytan",
+            "apellido2": "Ponce",
+            "direccion": "desconocido",
+            "telefono": "desconocido",
+            "observaciones": "Cliente Habitual"
+        }
+    ]
+}
